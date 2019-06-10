@@ -7,4 +7,5 @@ We are from computer science and engineering
 1.Sireesha
 2.sunayana
   -pranavi
+    -sruthi
   +sudhan
